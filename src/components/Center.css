@@ -1,0 +1,12 @@
+.center {
+    background: url(../images/header.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+
+}
+
+.center h1 {
+    font-size: 80px;
+}
